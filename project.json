@@ -1,7 +1,6 @@
 {
   "name": "BlankProcess",
   "projectId": "bc0c13a8-59f6-470d-8e80-c497aa25b41b",
-  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.21.0-preview]",
